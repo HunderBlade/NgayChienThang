@@ -1,2 +1,15 @@
-# NgayChienThang
-A newspaper-like project of a small learning team, telling the stories that happened in the Viet Nam war. Aiming to understand the fundamentals of CSS, HTML and Javascript at the end of the project.
+Ngày Chiến Thắng
+
+Ngày Chiến Thắng is a newspaper-style project created by a small learning team. Our goal is to tell stories from the Vietnam War — stories filled with empathy, humanity, and resilience. We believe these accounts deserve to be shared and appreciated by more people.
+
+This project is built as a simple Front-End website. Through it, our team aims to:
+* Practice and strengthen our fundamentals in HTML, CSS, and JavaScript
+* Explore the design aspects of building a website
+* Deliver a meaningful learning experience while honoring history
+
+Getting started: Simply clone this repo -> open index.html
+
+Our team consists of:
++ Phan Huu Dai - daiph3505@gmail.com
++ Tran Anh Kiet - 
++ Vo Hoang Hung - 
