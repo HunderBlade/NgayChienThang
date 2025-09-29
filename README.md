@@ -11,5 +11,5 @@ Getting started: Simply clone this repo -> open index.html
 
 Our team consists of:
 + Phan Huu Dai - daiph3505@gmail.com
-+ Tran Anh Kiet - 
-+ Vo Hoang Hung - 
++ Tran Anh Kiet - trananhkiet06072005@gmail.com
++ Vo Hoang Hung - anhembmtja@gmail.com
